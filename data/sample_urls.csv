@@ -1,0 +1,11 @@
+URL,Description
+https://www.google.com/search?q=cybersecurity,Search engine query (Legitimate)
+https://en.wikipedia.org/wiki/Phishing,Online encyclopedia article (Legitimate)
+https://github.com/torvalds/linux,Open source code repository (Legitimate)
+https://stackoverflow.com/questions/tagged/python,Developer community forum (Legitimate)
+http://59.183.116.177:55504/Mozi.m,Raw IP botnet payload URL (Malicious)
+http://171.100.81.38:8080/xampp/ngrok.exe,Direct executable Trojan download (Malicious)
+https://keraekken-loagginnusa.godaddysites.com/,Brand impersonation credential harvester (Malicious)
+https://appleid-security-verification-portal.com/login,Hyphenated phishing login (Malicious)
+http://myglobaltech.in/,Suspicious non-standard domain (Malicious)
+https://metamsk01lgiix.godaddysites.com/,Crypto wallet phishing page (Malicious)

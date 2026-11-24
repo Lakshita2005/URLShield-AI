@@ -1,0 +1,47 @@
+[
+  {
+    "Model": "Logistic Regression",
+    "Accuracy": 0.9966790582403965,
+    "Precision": 0.9993674889310563,
+    "Recall": 0.9953539648791243,
+    "F1-score": 0.997356689154535,
+    "ROC-AUC": 0.9998369352102858,
+    "Training Time (s)": 0.3063232898712158,
+    "Prediction Latency (ms/sample)": 0.00012524213637265722,
+    "True Positive": 12640,
+    "True Negative": 7468,
+    "False Positive": 8,
+    "False Negative": 59,
+    "Key": "logistic_regression"
+  },
+  {
+    "Model": "Decision Tree",
+    "Accuracy": 0.9992565055762082,
+    "Precision": 0.9996061131243107,
+    "Recall": 0.9992125364201906,
+    "F1-score": 0.9994092860237073,
+    "ROC-AUC": 0.9996917610959369,
+    "Training Time (s)": 0.26617908477783203,
+    "Prediction Latency (ms/sample)": 0.0004485814544791183,
+    "True Positive": 12689,
+    "True Negative": 7471,
+    "False Positive": 5,
+    "False Negative": 10,
+    "Key": "decision_tree"
+  },
+  {
+    "Model": "MLP Classifier",
+    "Accuracy": 0.9992069392812887,
+    "Precision": 0.9994486886666142,
+    "Recall": 0.9992912827781715,
+    "F1-score": 0.9993699795243346,
+    "ROC-AUC": 0.9999830941807706,
+    "Training Time (s)": 21.30689573287964,
+    "Prediction Latency (ms/sample)": 0.0007333129164306943,
+    "True Positive": 12690,
+    "True Negative": 7469,
+    "False Positive": 7,
+    "False Negative": 9,
+    "Key": "mlp_classifier"
+  }
+]
