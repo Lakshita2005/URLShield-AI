@@ -266,5 +266,5 @@ The notebook is already fully executed with all outputs, plots, and tables rende
 
 ## 12. License & Author Information
 
-Developed by the **URLShield AI Research Team**. Released under the [MIT License](LICENSE).
+Developed by **Lakshita**. Released under the [MIT License](LICENSE).
 Academic citation: Mendeley Data LegitPhish Dataset (DOI: [10.17632/hx4m73v2sf.2](https://doi.org/10.17632/hx4m73v2sf.2)).

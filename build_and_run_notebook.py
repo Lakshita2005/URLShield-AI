@@ -19,7 +19,7 @@ def build_notebook():
     # Section 1 & 2: Introduction & Problem Statement
     cells.append(nbf.v4.new_markdown_cell("""# AI-Powered Malicious URL Detection Using Machine Learning and Deep Learning
 **Application Platform**: URLShield AI  
-**Author**: Antigravity Senior Cybersecurity & AI Research Team  
+**Author**: Lakshita  
 **Dataset**: LegitPhish (Mendeley Data DOI: [10.17632/hx4m73v2sf.2](https://doi.org/10.17632/hx4m73v2sf.2))  
 
 ---
